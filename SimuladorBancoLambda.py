@@ -393,7 +393,7 @@ if st.session_state.usuario is None:
 
     if opcion == "Inicio":
 
-        st.header("Bienvenido a Hannia Bank 👋")
+        st.header("Bienvenido a Hannia Banco 👋")
 
         st.write(
             """
